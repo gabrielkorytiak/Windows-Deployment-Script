@@ -10,9 +10,12 @@ I AM NOT RESPONSILE FOR ANY LOST OF DATA CAUSED BY NOT FOLLOWING MY INSTRUCIONS
 
 THIS SCRIPTS WILL BYPASS WINDOWS 11 SYSTEM REQUIRMENTS
 
+
 How to use :
 
+
 If you are using DVD :
+
 
 Download files from respository
 
@@ -32,7 +35,9 @@ switch to D:
 
 use script to install specific version of Windows
 
+
 If you are using USB drive :
+
 
 download Windows Instalation Media from Microsoft website or by Media Creation Tool
 
