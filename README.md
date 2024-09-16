@@ -1,6 +1,6 @@
 # Windows-Deployment-Script
 
-This scripts is for auomated manual install of Windows
+This scripts are for auomated manual install of Windows
 
 MAKE SURE THAT DRIVE D IS INSTALL MEDIA
 
