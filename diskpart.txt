@@ -3,8 +3,8 @@ clean
 conver mbr
 convert gpt
 create part efi size=256
-format fs=fat32 quick label="EFI"
+format fs=fat32 quick
 assign letter e
 create partition primary
-format fs=ntfs quick label="WindowsToGo"
+format fs=ntfs quick
 assign letter=c
