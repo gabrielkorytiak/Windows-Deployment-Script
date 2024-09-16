@@ -18,7 +18,8 @@ Download files from respository
 
 exract downloaded files into a folder
 
-Use software like PowerISO to place downloaded files from respository on root direcotry of Windows Instalation Media (Winrar or 7-zip cannot beused for this )
+Use software like PowerISO to place downloaded files from respository on root direcotry of Windows Instalation Media (Winrar or 7-zip cannot beused for this purpose)
+
 Save the modified media
 
 Burn it to DVD
