@@ -1,15 +1,15 @@
-# Windows-Deployment-Script
+# Windows-Install-Media-Deployment-Script
 
 This scripts are for auomated manual install of Windows
+This scripts will properly work with original installmedia of Windows 10 and Windows 11
+Older Windows releases are not supported
+currently working on scripts for LTSC/LTSC install media !
 
-MAKE SURE THAT DRIVE D IS INSTALL MEDIA
+Use :
+Manula deployment of Windows for IT admins
+Exernal Windows instalation in external hard drives/USB stick/SD Card (Windows To Go)
+Bypass system requirments (Yes this script will allow to install Windows 11 on unsuported hardware)
+Case when regular Windows setup wont properly deploy Windows
 
-MAKE SURE THAT YOU HAVE ONLY INSTALL MEDIA AND ONE HARD DRIVE YOU WANT INSTALL WINDOWS ONTO INSERTED INTO A PC
-
-I AM NOT RESPONSILE FOR ANY LOST OF DATA CAUSED BY NOT FOLLOWING MY INSTRUCIONS
-
-THIS SCRIPTS WILL BYPASS WINDOWS 11 SYSTEM REQUIRMENTS
-
-THIS SCRIPTS WILL ONLY WORK WITH ORIGINAL MICROSFT WINDOWS INSTALL MEDIA
-
-USE HowToUse.txt FOR INSTRUCTIONS
+How to use ?
+All instructions can be found in HowToUse.txt
