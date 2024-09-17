@@ -14,8 +14,14 @@ Save the modified media
 Burn it to DVD
 Boot from DVD
 Open Command Promt (Alt+F10)
+lauch diskpart by typing diskpart into a command promt
+list disk by using list disk command
+make sure drive 0 is drive that you want to install system onto
+list avaiable volume
+make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
+exit diskaprt
 Switch to D: 
-Use script to install specific version of Windows
+Use script to install specific version of Windows you want
 
 If you are using USB drive :
 
@@ -27,8 +33,14 @@ Use Rufus to deploy Windows Instalaion Media onto a USB drive
 Copy downloaded files from respository onto a root of instalation media on USB drive (like D:\)
 Boot from USB drive
 Open Command Promt (Alt+F10)
+lauch diskpart by typing diskpart into a command promt
+list disk by using list disk command
+make sure drive 0 is drive that you want to install system onto
+list avaiable volume
+make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
+exit diskaprt
 Switch to D: 
-Use script to install specific version of Windows
+Use script to install specific version of Windows you want
 
 If you are using a virtual machine like VMware KVM or Virualbox :
 
@@ -39,5 +51,12 @@ Save the modified media
 Insert a media into a virtual machine
 Boot from DVD
 Open Command Promt (Alt+F10)
+lauch diskpart by typing diskpart into a command promt
+list disk by using list disk command
+make sure drive 0 is drive that you want to install system onto
+list avaiable volume
+make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
+exit diskaprt
 Switch to D: 
-Use script to install specific version of Windows
+Use script to install specific version of Windows you want
+
