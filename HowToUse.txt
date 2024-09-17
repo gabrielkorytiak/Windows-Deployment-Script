@@ -22,6 +22,7 @@ make sure that install media is on drive D and drives C and E are not in use bec
 exit diskaprt
 Switch to drive D
 Make sure you are in root directory of drive D
+List directory to make sure you see scripts and content of install media
 Use script to install specific version of Windows you want
 
 If you are using USB drive :
@@ -42,6 +43,7 @@ make sure that install media is on drive D and drives C and E are not in use bec
 exit diskaprt
 Switch to drive D
 Make sure you are in root directory of drive D
+List directory to make sure you see scripts and content of install media
 Use script to install specific version of Windows you want
 
 If you are using a virtual machine like VMware KVM or Virualbox :
@@ -61,5 +63,6 @@ make sure that install media is on drive D and drives C and E are not in use bec
 exit diskaprt
 Switch to drive D
 Make sure you are in root directory of drive D
+List directory to make sure you see scripts and content of install media
 Use script to install specific version of Windows you want
 
