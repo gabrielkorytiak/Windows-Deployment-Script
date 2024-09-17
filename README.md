@@ -12,7 +12,7 @@ Windows Recovery enviroment is extracted to C:\Windows\System32\Recovery and not
 
 Use :
 
-Manula deployment of Windows for IT admins
+Manual deployment of Windows for end users or corporations
 
 External Windows instalation in external hard drives/USB stick/SD Card (Windows To Go)
 
