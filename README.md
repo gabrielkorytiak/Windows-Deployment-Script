@@ -14,7 +14,7 @@ Use :
 
 Manula deployment of Windows for IT admins
 
-Exernal Windows instalation in external hard drives/USB stick/SD Card (Windows To Go)
+External Windows instalation in external hard drives/USB stick/SD Card (Windows To Go)
 
 Bypass system requirments (Yes this script will allow to install Windows 11 on unsuported hardware)
 
