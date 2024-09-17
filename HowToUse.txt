@@ -1,8 +1,9 @@
 How to use :
 
 WARNING !
-Make sure that you only have a DVD and hard drive insrted into a computer !
-Rhis scripts will format ANY drive that is marked as drive 0
+Make sure that you only have a install media and drive you want install windows to insrted into a computer !
+This scripts will format ANY drive marked as drive 0
+I am not responsible for loss of data caused by not following instructions
 
 If you are using DVD :
 
