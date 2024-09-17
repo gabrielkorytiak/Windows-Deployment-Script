@@ -6,7 +6,7 @@ This scripts will properly work with original installmedia of Windows 10 and Win
 
 Older Windows releases are not supported
 
-I am currently working on scripts for LTSC/LTSC install media !
+I am currently working on scripts for LTSB/LTSC install media !
 
 Use :
 
