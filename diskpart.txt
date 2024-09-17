@@ -1,6 +1,6 @@
 sel disk 0
 clean
-conver mbr
+convert mbr
 convert gpt
 create part efi size=256
 format fs=fat32 quick
