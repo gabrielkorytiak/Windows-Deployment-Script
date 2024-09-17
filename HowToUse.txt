@@ -17,7 +17,7 @@ Open Command Promt (Alt+F10)
 lauch diskpart (diskpart)
 list disk (list disk)
 make sure drive 0 is drive that you want to install system onto
-list avaiable volume
+list avaiable volumes (list volume)
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt (exit)
 Switch to drive D (d:)
@@ -38,7 +38,7 @@ Open Command Promt (Alt+F10)
 lauch diskpart (diskpart)
 list disk (list disk)
 make sure drive 0 is drive that you want to install system onto
-list avaiable volume
+list avaiable volumes (list volume)
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt (exit)
 Switch to drive D (d:)
@@ -58,7 +58,7 @@ Open Command Promt (Alt+F10)
 lauch diskpart (diskpart)
 list disk (list disk)
 make sure drive 0 is drive that you want to install system onto
-list avaiable volume
+list avaiable volumes (list volume)
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt (exit)
 Switch to drive D (d:)
