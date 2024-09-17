@@ -20,7 +20,8 @@ make sure drive 0 is drive that you want to install system onto
 list avaiable volume
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt
-Switch to D: 
+Switch to drive D
+Make sure you are in root directory of drive D
 Use script to install specific version of Windows you want
 
 If you are using USB drive :
@@ -39,7 +40,8 @@ make sure drive 0 is drive that you want to install system onto
 list avaiable volume
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt
-Switch to D: 
+Switch to drive D
+Make sure you are in root directory of drive D
 Use script to install specific version of Windows you want
 
 If you are using a virtual machine like VMware KVM or Virualbox :
@@ -57,6 +59,7 @@ make sure drive 0 is drive that you want to install system onto
 list avaiable volume
 make sure that install media is on drive D and drives C and E are not in use because it will be needed during instalaion of Windows
 exit diskaprt
-Switch to D: 
+Switch to drive D
+Make sure you are in root directory of drive D
 Use script to install specific version of Windows you want
 
