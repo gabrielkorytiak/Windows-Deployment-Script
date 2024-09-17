@@ -12,13 +12,13 @@ I am currently working on scripts for LTSB/LTSC install media !
 
 Windows Recovery enviroment is extracted to C:\Windows\System32\Recovery and not into separate partition as on regular install but still will properly work without any issues
 
-Use :
+Use ?
 
 Manual deployment of Windows for end users or corporations
 
-External Windows instalation in external hard drives/USB stick/SD Card (Windows To Go)
+External Windows instalation on external hard drive/USB stick/SD Card (Windows To Go)
 
-Bypass system requirments (Yes this script will allow to install Windows 11 on unsuported hardware)
+Bypass system requirments (Yes this scripts will allow to install Windows 11 on unsuported hardware)
 
 Case when regular Windows setup wont properly deploy Windows
 
