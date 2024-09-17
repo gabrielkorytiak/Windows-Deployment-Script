@@ -8,6 +8,8 @@ Older Windows releases are not supported
 
 I am currently working on scripts for LTSB/LTSC install media !
 
+Windows Recovery enviroment is extracted to C:\Windows\System32\Recovery and not into separate partition as on regular install but still will properly work without any issues
+
 Use :
 
 Manula deployment of Windows for IT admins
